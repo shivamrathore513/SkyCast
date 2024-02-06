@@ -7,9 +7,8 @@ This Weather App is a simple web application built with HTML, CSS, and JavaScrip
 - **Search:** Users can enter the name of a city to retrieve its current weather information.
 - **Weather Display:** The app displays the current temperature, weather description, and other relevant weather data.
 
-## Demo
-
-[Link to live demo](#) <!-- Add the link to your live demo -->
+#Live 
+https://shivamrathore513.github.io/SkyCast/
 
 ## How to Use
 
